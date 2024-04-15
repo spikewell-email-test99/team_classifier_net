@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Email_Classifier_Test3.props" />
+</Project>

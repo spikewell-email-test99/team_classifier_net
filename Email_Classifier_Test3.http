@@ -1,0 +1,6 @@
+@Email_Classifier_Test3_HostAddress = http://localhost:5284
+
+GET {{Email_Classifier_Test3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

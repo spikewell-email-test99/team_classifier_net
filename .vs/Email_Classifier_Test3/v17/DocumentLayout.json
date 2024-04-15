@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E640B76-F8DF-4999-8D23-E688D61233D8}|Email_Classifier_Test3.csproj|c:\\users\\mukul\\source\\repos\\email_classifier_test3\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E640B76-F8DF-4999-8D23-E688D61233D8}|Email_Classifier_Test3.csproj|solutionrelative:controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E640B76-F8DF-4999-8D23-E688D61233D8}|Email_Classifier_Test3.csproj|c:\\users\\mukul\\source\\repos\\email_classifier_test3\\myscript.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1E640B76-F8DF-4999-8D23-E688D61233D8}|Email_Classifier_Test3.csproj|solutionrelative:myscript.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E640B76-F8DF-4999-8D23-E688D61233D8}|Email_Classifier_Test3.csproj|c:\\users\\mukul\\source\\repos\\email_classifier_test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E640B76-F8DF-4999-8D23-E688D61233D8}|Email_Classifier_Test3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myScript.py",
+              "DocumentMoniker": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\myScript.py",
+              "RelativeDocumentMoniker": "myScript.py",
+              "ToolTip": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\myScript.py",
+              "RelativeToolTip": "myScript.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-15T05:51:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:42:49.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mukul\\source\\repos\\Email_Classifier_Test3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:31:10.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
